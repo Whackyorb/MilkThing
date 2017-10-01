@@ -1,0 +1,8 @@
+name: MilkThing
+main: me.whackyorb.milkthing.MilkThing
+version: 1.0
+author: Whacky
+description: For Milk.
+commands:
+  impropergrammar:
+    description: Do the thing.
